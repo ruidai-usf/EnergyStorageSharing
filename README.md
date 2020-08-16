@@ -1,2 +1,2 @@
 # EnergyStorageSharing
-The literature list for the review of Energy Storage Sharing
+This repository present the literature list for the literature review paper of Energy Storage Sharing.
