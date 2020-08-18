@@ -4,4 +4,4 @@ This repository presents the literature list for the paper "The utilization of s
 
 The excel file reports information of 263 papers related to energy storage sharing. The authors' name, title, publisher, published year, and DOI of these papers are presented in this file.
 
-Please apply the literature list with the review paper.
+Please apply the literature list as an appendix for the review paper.
